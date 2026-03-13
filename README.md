@@ -6,8 +6,8 @@ This project was part of a high-school thesis-like assignment, designed to be in
 
 ## ⚡ Features
 
-- Add, update, and delete student records
-- Manage courses and class schedules
+- Add, update, and delete student and professor records
+- Manage levels
 - Track student enrollment and progress
 - Simple interface for staff to perform daily operations
 
